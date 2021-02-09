@@ -7,4 +7,4 @@ Features:
   * Score is visible after the game gets over
   * Retstart the game by  pressing Enter after gameover
   
-<img src="snakegame demo.gif" width=350px height=350px />
+<img src="snakegame_demo.gif" width=350px height=350px />
